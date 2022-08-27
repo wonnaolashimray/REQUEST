@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "7685",
+            "parent_exercise_id": null,
+            "name": "About-NavGurukul",
+            "slug": "about-navgurukul_json__About-NavGurukul_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/about-navgurukul_json/About-NavGurukul.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7699",
+            "parent_exercise_id": null,
+            "name": "Introductory-Videos",
+            "slug": "about-navgurukul_json__Introductory-Videos_json",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/about-navgurukul_json/Introductory-Videos.json",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "7685",
+    "parent_exercise_id": null,
+    "name": "About-NavGurukul",
+    "slug": "about-navgurukul_json__About-NavGurukul_json",
+    "sequence_num": 0,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"value\\\":[{\\\"component\\\":\\\"text\\\",\\\"value\\\":\\\"About-NavGurukul_key1\\\"},{\\\"component\\\":\\\"text\\\",\\\"value\\\":\\\"About-NavGurukul_key2\\\"},{\\\"component\\\":\\\"text\\\",\\\"value\\\":\\\"About-NavGurukul_key3\\\"},{\\\"component\\\":\\\"text\\\",\\\"value\\\":\\\"About-NavGurukul_key4\\\"}]}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/about-navgurukul_json/About-NavGurukul.json"
+}
